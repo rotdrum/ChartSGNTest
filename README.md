@@ -4,9 +4,9 @@
 
 # VERSION DOCUMENT
     - Population-API
-        Node.js V18^
+        Node.js NodeV18^
     - Population-Chart-APP
-        React.js V18^
+        React.js NodeV18^
 
 # STEP CONNECTION DOCUMENT
     - Population-API
